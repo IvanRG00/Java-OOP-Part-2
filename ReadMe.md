@@ -1,2 +1,3 @@
-# OOP University tasks part 2
-* School diary made with Set/Get
+# OOP University tasks part 2 - School diary 
+# Made with
+* Set/Get
